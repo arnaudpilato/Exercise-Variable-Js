@@ -14,7 +14,7 @@
   let imgProfile = "http://www.go.com/david.png";
 
   let city = "San Francisco";
-  let abstract = "CA";
+  let stateCode = "CA";
 
   let people_follower = 109;
   let people_following = 1500;
