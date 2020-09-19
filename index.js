@@ -17,10 +17,10 @@
   let abstract = "CA";
 
   let people_follower = 109;
-  let people_following = 1500 + 1;
+  let people_following = 1500;
+  
 
-
-  const whatTimeIsIt = new Date();
+  let whatTimeIsIt = new Date();
 
   /*
 
@@ -28,3 +28,4 @@
 
   */
 
+  people_following += 1
